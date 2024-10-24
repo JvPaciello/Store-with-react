@@ -29,5 +29,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## credits:
-Repository of the guitar store API owner: https://github.com/VWRoli/guitar-store
+## Credits:
+Repository of the guitar store API owner: https://github.com/VWRoli/guitar-store-api
