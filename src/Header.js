@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <Link to="/" className="logo">
-        Store
+        Guitar info center
       </Link>
       <nav className="navbar">
         <Link to="/">Register Products</Link>

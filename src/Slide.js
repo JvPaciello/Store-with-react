@@ -36,8 +36,8 @@ function Slide() {
           products.map((product, index) => (
             <div key={index} className="img-container">
               <img src={product.images[0]} alt={product.name} />
-              <button className="details-button">Details</button>
-              <h1 className="details-h1">{product.name}</h1>
+              <button className="details-button">Learn More</button>
+              <h2 className="details-h1">{product.name}</h2>
             </div>
           ))
         ) : (
